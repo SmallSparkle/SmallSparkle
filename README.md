@@ -1,5 +1,5 @@
 # 💫 Anastasiia Bespalova
-🌍 Hi, I'm a QA Engineer from Austria 🇦🇹  <br>✉️ You can contact me at a.kortikova@gmail.com<br>❓ Ask me a question about Quality Assurance<br>🧠 Languages I learn or master: JavaScript, TypeScript, Go, Java<br>🤔 My other software-related interests: 🤖 AI & LLMs, AI-powered IDEs and coding tools, mentoring.<br>⚡ Mountin lover
+🌍 Hi, I'm a QA Engineer from Austria 🇦🇹  <br>✉️ You can contact me at a.kortikova@gmail.com<br>❓ Ask me a question about Quality Assurance<br>🧠 Languages I learn or master: JavaScript, TypeScript, Go, Java<br>🤔 My other software-related interests: 🤖 AI & LLMs, AI-powered IDEs and coding tools, mentoring.<br>⚡ Mountain lover
 
 
 ## 🌐 Socials:
